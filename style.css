@@ -191,36 +191,36 @@ footer a.online i{
     font-size: 8px;
 }
 
-.works .left .works-list{
+.works .left .work-list{
     margin-top: 70px;
     display: flex;
     flex-direction: column;
     gap: 36px;
 }
 
-.works .left .works-list .item{
+.works .left .work-list .item{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.works .left .works-list .item .work-info h5{
+.works .left .work-list .item .work-info h5{
     color: #fff;
     font-size: 24px;
     font-weight: 500;
 }
 
-.works .left .works-list .item .work-info h5.active{
+.works .left .work-list .item .work-info h5.active{
     color: #388E3C;
 }
 
-.works .left .works-list .item .work-info p{
+.works .left .work-list .item .work-info p{
     margin-top: 12px;
     color: #BDBDBD;
     font-size: 20px;
 }
 
-.works .left .works-list .item > p {
+.works .left .work-list .item > p {
     font-size: 20px;
     color: #BDBDBD;
 }
@@ -387,8 +387,8 @@ footer .socials a{
     }
 
     .about .left .info p,
-    .works .left .works-list .item .work-info p,
-    .works .left .works-list .item > p{
+    .works .left .work-list .item .work-info p,
+    .works .left .work-list .item > p{
         font-size: 16px;
     }
 
@@ -396,11 +396,11 @@ footer .socials a{
         font-size: 14px;
     }
 
-    .works .left .works-list{
+    .works .left .work-list{
         margin-top: 40px;
     }
 
-    .works .left .works-list .item .work-info h5,
+    .works .left .work-list .item .work-info h5,
     .works .right .item a{
         font-size: 20px;
     }
